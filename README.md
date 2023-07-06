@@ -1,4 +1,4 @@
-# thirdyeardissertation
+# Third Year Computer Science Dissertation
 ## Creating Music Based upon Text Sentiment
 
 ### Instructions to run the code:
